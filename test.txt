@@ -1,4 +1,4 @@
 new content
 add content
 test pull
-test pull pull with conflicts
+test pull pull with conflicts final
